@@ -24,7 +24,7 @@
         "@electron-toolkit/preload": "^3.0.1",
         "@electron-toolkit/utils": "^3.0.0",
         "echarts": "^5.5.1",
-        "electron-mouse-watcher": "1.0.1",
+        "electron-mouse-watcher": "1.0.4",
         "electron-store": "8.2.0",
         "electron-updater": "^6.1.7"
     },
