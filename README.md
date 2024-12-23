@@ -35,3 +35,5 @@
 - 打包：`npm run package`
 
 ## 许可证
+
+[LICENSE](./LICENSE)
